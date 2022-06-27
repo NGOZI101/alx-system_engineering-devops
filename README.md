@@ -1,1 +1,1 @@
-Task 0-where am i ?
+demonstrating standard input/output on shell
